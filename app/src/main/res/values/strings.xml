@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">App</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hintuser">User</string>
+    <string name="hintpassword">Password</string>
+    <string name="singUpLogin">Already have an account ? Press here to Login.</string>
+    <string name="login">Login</string>
+    <string name="loginSingUp">You don\'t have an account yet? Click here to create one.</string>
+</resources>
